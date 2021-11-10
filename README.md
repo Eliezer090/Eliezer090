@@ -16,7 +16,7 @@
 </div>
   
 ## 
-### Caso se interessou e quiser trocar uma idéia me chame:   
+### Se interessou? Então borra trocar uma idéia:
 <div> 
   <a href="https://www.instagram.com/__schwartz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <!--<a href="https://discord.gg/Eliezer#7788" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
