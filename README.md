@@ -1,5 +1,5 @@
 ## Olá eu sou o Eliézer Schwartz
-- 🔭 &#160; Atualmente trabalho com Front-End e Back-End (Prefirro back)
+- 🔭 &#160; Atualmente trabalho como Desenvolvedor Front-End, Back-End (Prefirro back) e realizando analises definindo escopos e funcionamento da aplicação para a equipe trabalhar.
 - 🌱 &#160; Estou cursando faculdade de Ciências da computação, mas estou descobrindo minha paixão com as Inteligências artificiais em Python.
 <div align="center">
   <a href="https://github.com/Eliezer090">
