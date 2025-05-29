@@ -1,6 +1,6 @@
 ## Olá eu sou o Eliézer Schwartz
-- 🔭 &#160; Atualmente trabalho como Desenvolvedor Front-End, Back-End (Prefirro back) e realizando analises definindo escopos e funcionamento da aplicação para a equipe trabalhar.
-- 🌱 &#160; Estou cursando faculdade de Ciências da computação, mas estou descobrindo minha paixão com as Inteligências artificiais em Python.
+- 💼 &#160; Atualmente trabalho como Software Engineer, projetando e mantendo aplicações.
+- 🧑‍🎓 &#160; Sou formado em Ciências da computação, estou evoluindo para a parte de AI.
 <div align="center">
   <a href="https://github.com/Eliezer090">
   <img height="180em" src="https://github-readme-stats-gqi7m176q-eliezer090.vercel.app/api?username=Eliezer090&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -8,12 +8,10 @@
 </div>
 <div style="display: inline_block; "><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Go" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="Docker" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="center" alt="Kubernetes" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   
